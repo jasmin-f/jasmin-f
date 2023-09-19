@@ -1,6 +1,6 @@
 
 <!-- fun -->
-[![Typing SVG ](https://readme-typing-svg.herokuapp.com/?lines=Willkommen;ich speichere hier persönliche Projekte)](https://git.io/typing-svg)
+[![Typing SVG ](https://readme-typing-svg.herokuapp.com/?lines=Willkommen;kleine+Projekte)](https://git.io/typing-svg)
 
 
 - 👋 Hi, Ich bin @jasmin-f
